@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# CasperJS documentation
+# CasperJS cookbook
 #
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -130,14 +130,6 @@ html_static_path = ['_static']
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
     '*': [
-        'globaltoc.html',
-        'relations.html',
-        'sourcelink.html',
-        'searchbox.html',
-        'addon.html'
-    ],
-    'modules/*': [
-        'localtoc.html',
         'globaltoc.html',
         'relations.html',
         'sourcelink.html',
