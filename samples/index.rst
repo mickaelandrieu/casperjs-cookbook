@@ -2,3 +2,8 @@
 
 Samples
 ================
+
+.. toctree::
+   :glob:
+
+   *
